@@ -1,0 +1,19 @@
+$(document).ready(function(){
+	$(".owl-carousel").owlCarousel({
+    loop:false,
+    margin: 20,
+    nav:true,
+    navText:true,
+    dots:true,
+    autoHeight:true,
+    navText:false,
+        responsive:{
+            320:{
+                items:1
+            },
+            1200:{
+                items:1
+            }
+        }  
+	});
+});
