@@ -1,6 +1,6 @@
 $(document).ready(function(){
-	$(".owl-carousel").owlCarousel({
-    loop:false,
+	$(".main-slaider").owlCarousel({
+    loop:true,
     margin: 20,
     nav:true,
     navText:true,
@@ -16,4 +16,20 @@ $(document).ready(function(){
             }
         }  
 	});
+
+    $(".reviews-slaider").owlCarousel({
+    loop:true,
+    margin: 20,
+    nav:true,
+    dots:true,
+    navText:false,
+        responsive:{
+            320:{
+                items:1
+            },
+            1200:{
+                items:2
+            }
+        }  
+    });
 });
