@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 .wrap-znakomstva {
 	display: flex;
 	justify-content: space-around;
-	align-items: baseline;
+	align-items: center;
 	flex-wrap: wrap;
 }
 .wrap-company {
