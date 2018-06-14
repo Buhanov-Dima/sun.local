@@ -606,7 +606,9 @@ footer {
 }
 .popup-slaider {
 	padding: 0 50px;
-	
+	width: 100%;
+	max-width: 900px;
+	margin: auto;
 }
 .h-400 .znakom {min-height: 400px;}
 .h-563 {min-height: 563px;}
