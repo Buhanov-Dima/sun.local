@@ -1,0 +1,4 @@
+.reviews-slaider .owl-nav button.owl-next::before {left: 360px;} .reviews-slaider .owl-nav button.owl-prev::before {right: 360px;}
+.main-slaider .owl-nav button.owl-next::before {left: 360px;} .main-slaider .owl-nav button.owl-prev::before {right: 360px;}
+.w-100.mx-auto .btn-ex {margin: 25px auto;} .img-circle {margin: 10px 53px;}
+.wrap-company.bg-1, .wrap-company.bg-2, .wrap-company.bg-3 {background-size: cover;} 

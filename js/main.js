@@ -5,6 +5,7 @@ $(document).ready(function(){
     margin: 20,
     nav:true,
     dots:true,
+    autoHeight:true,
     navText:false,
         responsive:{
             320:{
@@ -15,6 +16,7 @@ $(document).ready(function(){
             }
         }  
     });
+    
     $(".reviews-slaider").owlCarousel({
     loop:true,
     margin: 20,

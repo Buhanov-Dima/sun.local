@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 
 .slaid-1 {
 	background: url(/img/slaid-1.jpg) no-repeat left top;
-	background-size: 100%;
+	background-size: cover;
 	width: 100%;
 	height: 633px;
 	display: flex;
@@ -329,7 +329,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	z-index: 1;
 }
 .znakom {
-	max-width: 360px;
+	max-width: 336px;
 	width: 100%;
 	box-shadow: 0px 1px 8.37px 0.63px rgba(0, 0, 0, 0.24);
 	border-radius: 5px;
@@ -368,9 +368,10 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 }
 
 .sochi-price span{
-  font-size: 22px;
+  font-size: 20px;
   color: rgb(9, 108, 150);
-  text-shadow: 0px 7px 0px rgba(0, 0, 0, 0.14);
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .btn_read_more {
 	border-radius: 4px;
@@ -427,10 +428,10 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	position: absolute;
 	color: #ffffff;
 	border-radius: 4px;
-	width: 441px;
-  	height: 70px;
+	width: 320px;
+  	height: 45px;
   	background-color: #ca2323;
-  	font-size: 22px;
+  	font-size: 19px;
   	text-transform: uppercase;
   	display: flex;
   	justify-content: center;
@@ -440,7 +441,9 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
   	bottom: 45px;
   	margin: auto;
 }
-
+.nav-logo {
+	max-width: 50px;
+}
 .item-review {
 	max-width: 370px;
 	max-height: 340px;
@@ -628,5 +631,7 @@ footer {
 .h-563 {min-height: 563px;}
 .h-420 .znakom {min-height: 420px;}
 .h-517 .znakom {min-height: 517px;}
-
-
+.down-footer img {
+	max-width: 130px;
+}
+.navbar.navbar-expand-md.navbar-light {display: none;}
