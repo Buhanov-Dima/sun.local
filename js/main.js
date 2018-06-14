@@ -35,11 +35,11 @@ $(document).ready(function(){
 
     $(".popup-slaider").owlCarousel({
     loop:true,
-    margin: 10,
+    margin: 20,
     nav:true,
     dots:true,
     navText:false,
     items:1
     });
-    
+
 });

@@ -313,6 +313,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	overflow: hidden;
 	margin-top: 30px;
 	min-height: 425px;
+	position: relative;
 }
 .znakom-thumb {
 	max-height: 155px;
@@ -336,6 +337,11 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	justify-content: space-between;
 	align-items: center;
 	margin-top: 20px;
+	position: absolute;
+    width: 100%;
+    padding: 0 15px;
+    left: 0;
+    bottom: 25px;
 }
 
 .sochi-price span{
@@ -525,14 +531,13 @@ footer {
   max-width: 983px;
   border-radius: 4px;
   overflow: hidden;
-  
   transform: translateY(-50px);
   transition: all .7s;
 }
 
 .animated-modal h2,
 .animated-modal p {
-  transform: translateY(-50px);
+  
   opacity: 0;
   transition-property: transform, opacity;
   transition-duration: .4s;
@@ -549,11 +554,11 @@ footer {
 
 /* Reveal content with different delays */
 .fancybox-slide--current .animated-modal h2 {
-  transition-delay: .1s;
+  
 }
 
 .fancybox-slide--current .animated-modal p {
-  transition-delay: .3s;
+  
 }
 .wrap-popup {
   border-radius: 5px;
@@ -576,6 +581,7 @@ footer {
 .p-txt {
 	display: flex;
 	padding: 10px;
+	align-items: center;
 }
 .wrap-popup .p-txt p{
 	max-width: 505px;
@@ -586,6 +592,7 @@ footer {
 	margin-top: 25px;
 	max-height: 300px;
 }
+.p-txt-1 p{max-width: 80%;}
 .p-txt-1 {
 	display: flex;
 	align-items: center;
@@ -595,6 +602,7 @@ footer {
   font-size: 24px;
   color: rgb(9, 108, 150);
   font-weight: 600;
+  margin-left: auto;
 }
 .popup-slaider {
 	padding: 0 50px;
