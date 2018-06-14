@@ -1,6 +1,6 @@
 body {}
 a:link {text-decoration: none;}
-button {outline: none;}
+button {outline: none; cursor: pointer;}
 h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margin: 0;}
 .mg-t-1 {margin-top: 1em;}
 .mg-t-2 {margin-top: 2em;}
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 .fx-cnt {display: flex; position: relative;}
 .wrap-header {display: flex; justify-content: space-between; align-items: center;}
 .logo {
-	width: 200px; 
+	width: 130px; 
 	position: absolute;
 	left: 0; 
 	top: 0; 
@@ -39,24 +39,29 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	justify-content: center;
 	align-items:
 	center;
-	padding: 45px 15px 30px;
+	padding: 15px 15px 22px;
 	z-index: 10;
 }
-.menu {margin-left: 200px; padding: 20px 20px 0; width: 100%;}
+.logo img{
+	position: relative;
+	width: 100%;
 
+}
+.menu {margin-left: 200px; padding: 5px 20px 0; width: 100%;}
+.card {display: none;}
 .btn-ex {
 	border-radius: 4px;
 	background-image: -moz-linear-gradient( 4deg, rgb(252,206,1) 0%, rgb(254,187,1) 47%, rgb(255,168,0) 100%);
 	background-image: -webkit-linear-gradient( 4deg, rgb(252,206,1) 0%, rgb(254,187,1) 47%, rgb(255,168,0) 100%);
 	background-image: -ms-linear-gradient( 4deg, rgb(252,206,1) 0%, rgb(254,187,1) 47%, rgb(255,168,0) 100%);
-	width: 326px;
-	height: 52px;
+	width: 290px;
+	height: 40px;
 	display: block;
 	text-align: center;
 	font-size: 18px;
 	font-weight: bold;
 	color: #ffffff;
-	padding: 13px 0;
+	padding: 7px 0;
 	outline: none;
 	border: none;
 }
@@ -78,7 +83,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	padding: 15px 0;
 }
 .bottom-menu a{
-  font-size: 18px;
+  font-size: 16px;
   color: rgb(19, 19, 19);
   position: relative;
   display: block;
@@ -131,7 +136,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
   margin-bottom: 20px;
 }
 #f-tel {width: 100%; border-radius: 3px; text-align: center; border: none; outline: none; padding: 7px 10px 9px 10px; margin-bottom: 10px;}
-#check {text-align: left;}
+.check {text-align: left;}
 .btn-send {
 	border-radius: 4px;
 	background-image: -moz-linear-gradient( 4deg, rgb(252,206,1) 0%, rgb(254,187,1) 47%, rgb(255,168,0) 100%);
@@ -152,39 +157,51 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 #f-tel:-moz-placeholder           { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
 #f-tel:-ms-input-placeholder      { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
 
-
-#check {
-  position: absolute;
-  z-index: -1;
-  opacity: 0;
-  margin: 0;
+.check:not(checked) {
+    position: absolute;
+    opacity: 0;
 }
-#check + label {
-  position: relative;
-  padding: 7px 0 0 30px;
-  cursor: pointer;
-  margin-bottom: 20px;
-}
-#check + label:before {
-  content: '';
-  position: absolute;
-  width: 23px;
-  height: 23px;
-  left: 0;
-  border-radius: 2px;
-  background: #ffffff;
-  transition: .2s;
-  top: 10px;
+.check {
+    vertical-align: top;
+    width: 17px;
+    height: 17px;
+    margin: 0 3px 0 0;
 }
 
-#check:checked + label:before {
+.check:not(checked) + label {
+      position: relative;
+    padding: 0 0 0 35px;
+}
+.check+ label {
+    cursor: pointer;
+}
+.check:not(checked) + label:before {
+      content: '';
+    position: absolute;
+    top: 2px;
+    left: 0;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #CDD1DA;
+    background: #FFF;
+}
+.check:checked + label:after {
   opacity: 1;
-  background: url(/img/checked.png) no-repeat center;
-  background-color: #ffffff;
-  left: 0;
-  z-index: 999999;
 }
-.main-slaider .owl-nav {position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin: auto; width: 1px; height: 1px;}
+.check:not(checked) + label:after {
+  content: '';
+    position: absolute;
+    top: 8px;
+    left: 4px;
+    width: 14px;
+    height: 12px;
+    background-color: #000;
+    opacity: 0;
+    transition: all .2s;
+}
+
+  
+.main-slaider.owl-carousel .owl-nav {position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin: auto; width: 1px; height: 1px; display: block;}
 .main-slaider .owl-dots {display: none;}
 
 .main-slaider .owl-nav button.owl-next {
@@ -234,7 +251,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	justify-content: center;
 	align-items: center;
 	position: relative;
-	margin: 0 50px;
+	margin: 0 53px;
 }
 .img-circle::after{
 	content: '';
@@ -266,6 +283,8 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
   font-weight: bold;
   line-height: 1.7;
   text-align: center;
+  text-transform: uppercase;
+  font-size: 36px;
 }
 .wrap-advantages {
 	display: flex;
@@ -287,7 +306,9 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	background: url(/img/bg-turs.jpg) no-repeat center;
 	background-size: 100%;
 	position: relative;
-	z-index: -20;
+}
+.wrap-turs a{
+	color: rgb(19, 19, 19);
 }
 #block-3::after {
 	content: '';
@@ -297,13 +318,15 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	left: 0;
 	top: 0;
 	background: linear-gradient(to top, rgba(255,255,255, 1 ) 20%, rgba(255,255,255, .5 ) 50%, rgba(255,255,255, .1 ) 80%);
-	z-index: -10;
+	z-index: 0;
 }
 .wrap-turs {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
 	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
 }
 .znakom {
 	max-width: 360px;
@@ -536,14 +559,12 @@ footer {
 }
 
 .animated-modal h2,
-.animated-modal p {
-  
+.animated-modal p {  
   opacity: 0;
   transition-property: transform, opacity;
   transition-duration: .4s;
 }
 
-/* Final state */
 .fancybox-slide--current .animated-modal,
 .fancybox-slide--current .animated-modal h2,
 .fancybox-slide--current .animated-modal p {
@@ -552,14 +573,6 @@ footer {
   padding: 0;
 }
 
-/* Reveal content with different delays */
-.fancybox-slide--current .animated-modal h2 {
-  
-}
-
-.fancybox-slide--current .animated-modal p {
-  
-}
 .wrap-popup {
   border-radius: 5px;
   background-color: rgb(255, 255, 255);
@@ -567,13 +580,16 @@ footer {
   max-width: 983px;
   width: 100%;
 }
-
+.popup-slaider.owl-carousel.owl-drag .owl-item {
+	width: 100%;
+}
 .p-img {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	max-height: 190px;
 	overflow: hidden;
+	width: 100%;
 }
 .p-img img{
 	width: 100%;
@@ -605,12 +621,12 @@ footer {
   margin-left: auto;
 }
 .popup-slaider {
-	padding: 0 50px;
 	width: 100%;
-	max-width: 900px;
 	margin: auto;
 }
 .h-400 .znakom {min-height: 400px;}
 .h-563 {min-height: 563px;}
 .h-420 .znakom {min-height: 420px;}
 .h-517 .znakom {min-height: 517px;}
+
+

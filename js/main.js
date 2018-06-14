@@ -1,8 +1,11 @@
 $(document).ready(function(){
+	
 	$(".main-slaider").owlCarousel({
     loop:true,
     margin: 20,
-    autoHeight:true,
+    nav:true,
+    dots:true,
+    navText:false,
         responsive:{
             320:{
                 items:1
@@ -11,8 +14,7 @@ $(document).ready(function(){
                 items:1
             }
         }  
-	});
-
+    });
     $(".reviews-slaider").owlCarousel({
     loop:true,
     margin: 20,
@@ -31,7 +33,7 @@ $(document).ready(function(){
 
     $(".popup-slaider").owlCarousel({
     loop:true,
-    margin: 20,
+    margin: 10,
     nav:true,
     dots:true,
     navText:false,
