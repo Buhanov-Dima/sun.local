@@ -58,4 +58,10 @@ $(window).scroll(function(){
     else {
         $('.wrap-header').removeClass('fixed');
     };
+    if ($(window).scrollTop() > 30) {
+        $('.bg-white-color').addClass('shadow-cl');
+    }
+    else {
+        $('.bg-white-color').removeClass('shadow-cl');
+    };
 });

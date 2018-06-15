@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
   text-align: center;
   margin-bottom: 20px;
 }
-#f-tel {width: 100%; border-radius: 3px; text-align: center; border: none; outline: none; padding: 7px 10px 9px 10px; margin-bottom: 10px;}
+.f-tel {width: 100%; border-radius: 3px; text-align: center; border: none; outline: none; padding: 7px 10px 9px 10px; margin-bottom: 10px;}
 .check {text-align: left;}
 .btn-send {
 	border-radius: 4px;
@@ -199,10 +199,10 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	outline: none;
 	transition: .3s;
 }
-#f-tel::-webkit-input-placeholder { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
-#f-tel::-moz-placeholder          { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
-#f-tel:-moz-placeholder           { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
-#f-tel:-ms-input-placeholder      { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
+.f-tel::-webkit-input-placeholder { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
+.f-tel::-moz-placeholder          { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
+.f-tel:-moz-placeholder           { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
+.f-tel:-ms-input-placeholder      { color: rgb(19, 19, 19); text-decoration: underline; font-size: 14px; font-weight: 500;}
 
 .check:not(checked) {
     position: absolute;
@@ -746,23 +746,21 @@ footer {
 .sochi-price a {color: #ffffff;
 transition: .3s;}
 .sochi-price a:hover {
-	-webkit-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
-	-moz-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
-	box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+	-webkit-box-shadow: 0px 3px 10px -1px rgba(0,0,0,0.55);
+	-moz-box-shadow: 0px 3px 10px -1px rgba(0,0,0,0.55);
+	box-shadow: 0px 3px 10px -1px rgba(0,0,0,0.55);
 }
 
 .top-menu a:first-child {color: #ffffff;}
 .top-menu a:first-child:hover, .tur:hover, .btn_red:hover, .btn-ex:hover, .btn-send:hover{
-	-webkit-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
-	-moz-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
-	box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+	-webkit-box-shadow: 0px 3px 10px -1px rgba(0,0,0,0.55);
+	-moz-box-shadow: 0px 3px 10px -1px rgba(0,0,0,0.55);
+	box-shadow: 0px 3px 10px -1px rgba(0,0,0,0.55);
 	color: #ffffff;
 }
 .bottom-menu a {width: 25%; transition: .5s; text-align: center;}
-.bottom-menu a:hover{
-	-webkit-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
-	-moz-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
-	box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
-	padding: 5px;
-	border-radius: 5px;
+.bg-white-color.shadow-cl {
+	-webkit-box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.75);
+	box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.75);
 }
