@@ -1,6 +1,8 @@
 body {}
 a:link {text-decoration: none;}
+
 button {outline: none; cursor: pointer;}
+input {outline: none;}
 h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margin: 0;}
 .mg-t-1 {margin-top: 1em;}
 .mg-t-2 {margin-top: 2em;}
@@ -27,7 +29,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 .fx-cnt {display: flex; position: relative;}
 .wrap-header {display: flex; justify-content: space-between; align-items: center; position: fixed; transition: .3s; z-index: 99; width: 100%; max-width: 1140px; z-index: 9999;}
 .main-slaider {
-	margin-top: 110px;
+	margin-top: 100px;
 }
 .logo {
 	width: 130px; 
@@ -53,17 +55,17 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 }
 .wrap-header.fixed .logo{
 	background-color: rgba(255, 255, 255, 1);
-	padding: 15px 15px 12px;
+	padding: 3px 15px 3px;
 	border-radius: 0;
 }
 .wrap-header.fixed .logo img{
 	width: 70px;
 }
-.wrap-header.fixed .menu {padding: 20px 20px 0;}
+.wrap-header.fixed .menu {padding: 10px;}
 .wrap-header.fixed .menu .bottom-menu {padding: 5px 0;}
 .menu {margin-left: 150px; padding: 5px 20px 0; width: 100%; transition: .5s;}
 .card {display: none;}
-.wrap-header.fixed .menu .top-menu .btn-ex {width: 250px;}
+.wrap-header.fixed .menu .top-menu .btn-ex {width: 250px; margin-left: 120px;}
 .wrap-header.fixed .menu .bottom-menu a::before {height: 21px; top: 1px;}
 .btn-ex {
 	border-radius: 4px;
@@ -119,7 +121,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 #bt-menu-last::before {display: none;}
 .bg-white-color {
 	position: fixed;
-	height: 111px;
+	height: 90px;
 	left: 0;
 	top: 0;
 	width: 100%;
@@ -329,6 +331,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
     text-align: center;
     padding: 10px;
     margin: 5px 0;
+    transition: .3s;
 }
 #block-3 {
 	background: url(/img/bg-turs.jpg) no-repeat center;
@@ -468,6 +471,11 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
   	right: 0;
   	bottom: 45px;
   	margin: auto;
+  	transition: .3s;
+}
+.btn_red:hover {
+	color: #ffffff;
+	background-color: #ff3939;
 }
 .nav-logo {
 	max-width: 50px;
@@ -618,7 +626,7 @@ footer {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	max-height: 190px;
+	max-height: 360px;
 	overflow: hidden;
 	width: 100%;
 }
@@ -632,7 +640,9 @@ footer {
 }
 .wrap-popup .p-txt p{
 	max-width: 505px;
-	padding: 25px;
+	padding: 0 25px;
+	line-height: 1.2;
+	font-size: 15px;
 }
 .open-form.popup-form {
 	max-width: 440px;
@@ -715,3 +725,18 @@ footer {
 }
 
 .open-form.popup-form {margin-top: 0;}
+
+.sochi-price a {color: #ffffff;
+transition: .3s;}
+.sochi-price a:hover {
+	-webkit-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+	-moz-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+	box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+}
+
+.top-menu a:first-child {color: #ffffff;}
+.top-menu a:first-child:hover, .tur:hover, .btn_red:hover {
+	-webkit-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+	-moz-box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+	box-shadow: 0px 6px 24px -1px rgba(0,0,0,0.55);
+}
