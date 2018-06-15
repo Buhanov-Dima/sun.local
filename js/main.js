@@ -42,6 +42,13 @@ $(document).ready(function(){
     items:1
     });
 
+    $('a[href^="#"]').click(function(){
+        var el = $(this).attr('href');
+        $('html,body').animate({
+            scrollTop: $(el).offset().top-130}, 1000);
+        return false;
+	});
+
 });
 
 $(window).scroll(function(){
