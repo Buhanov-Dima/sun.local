@@ -83,7 +83,7 @@
 							<form class="open-form" action="">
 								<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
 								<input type="text" name="f-tel" id="f-tel" placeholder="Номер телефона">
-								<input type="checkbox" name="check" class="check">
+								<input type="checkbox" name="check" class="check" checked>
 								<label for="check">Я согласен на обработку персональных данных</label>
 								<button class="btn-send">Отправить</button>
 							</form>
