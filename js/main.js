@@ -43,3 +43,12 @@ $(document).ready(function(){
     });
 
 });
+
+$(window).scroll(function(){
+    if ($(window).scrollTop() > 1) {
+        $('.wrap-header').addClass('fixed');
+    }
+    else {
+        $('.wrap-header').removeClass('fixed');
+    };
+});

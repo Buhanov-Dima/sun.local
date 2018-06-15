@@ -25,7 +25,10 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 
 .pdg-0 {padding: 0;}
 .fx-cnt {display: flex; position: relative;}
-.wrap-header {display: flex; justify-content: space-between; align-items: center;}
+.wrap-header {display: flex; justify-content: space-between; align-items: center; position: fixed; transition: .3s; z-index: 99; width: 100%; max-width: 1140px; z-index: 9999;}
+.main-slaider {
+	margin-top: 110px;
+}
 .logo {
 	width: 130px; 
 	position: absolute;
@@ -41,14 +44,27 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	center;
 	padding: 15px 15px 22px;
 	z-index: 10;
+	transition: .5s;
 }
 .logo img{
 	position: relative;
 	width: 100%;
-
+	transition: .5s;
 }
-.menu {margin-left: 200px; padding: 5px 20px 0; width: 100%;}
+.wrap-header.fixed .logo{
+	background-color: rgba(255, 255, 255, 1);
+	padding: 15px 15px 12px;
+	border-radius: 0;
+}
+.wrap-header.fixed .logo img{
+	width: 70px;
+}
+.wrap-header.fixed .menu {padding: 20px 20px 0;}
+.wrap-header.fixed .menu .bottom-menu {padding: 5px 0;}
+.menu {margin-left: 150px; padding: 5px 20px 0; width: 100%; transition: .5s;}
 .card {display: none;}
+.wrap-header.fixed .menu .top-menu .btn-ex {width: 250px;}
+.wrap-header.fixed .menu .bottom-menu a::before {height: 21px; top: 1px;}
 .btn-ex {
 	border-radius: 4px;
 	background-image: -moz-linear-gradient( 4deg, rgb(252,206,1) 0%, rgb(254,187,1) 47%, rgb(255,168,0) 100%);
@@ -64,6 +80,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	padding: 7px 0;
 	outline: none;
 	border: none;
+	transition: .5s;
 }
 
 .top-menu {display: flex; justify-content: space-between; align-items: center;}
@@ -81,6 +98,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	display: flex;
 	justify-content: space-between;
 	padding: 15px 0;
+	transition: .5s;
 }
 .bottom-menu a{
   font-size: 16px;
@@ -94,10 +112,20 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	width: 1px;
 	height: 38px;
 	background-color: #dddddd;
-	right: -60px;
+	right: -76px;
+	top: -7px;
+	transition: 0.5s;
 }
 #bt-menu-last::before {display: none;}
-
+.bg-white-color {
+	position: fixed;
+	height: 111px;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background-color: #ffffff;
+	z-index: 999;
+}
 .slaid-1 h1 {
 	font-weight: bold;
 	line-height: 1.7;
@@ -431,7 +459,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	width: 320px;
   	height: 45px;
   	background-color: #ca2323;
-  	font-size: 19px;
+  	font-size: 17px;
   	text-transform: uppercase;
   	display: flex;
   	justify-content: center;
@@ -635,3 +663,7 @@ footer {
 	max-width: 130px;
 }
 .navbar.navbar-expand-md.navbar-light {display: none;}
+
+.w-100.mx-auto .btn-ex {
+	margin: 50px auto 30px;
+}
