@@ -134,6 +134,8 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	text-align: center;
 	color: #ffffff;
 	font-size: 36px;
+	position: relative;
+	z-index: 1;
 }
 
 .slaid-1 {
@@ -162,6 +164,16 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	background: url(/img/slaid-5.jpg) no-repeat left top;
 	background-size: cover;
 }
+.slaid-1.slaid-5::after, .slaid-1.slaid-4::after {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
 .open-form {
   border-radius: 5px;
   background-image: -moz-linear-gradient( 90deg, rgba(122,204,200,.7) 0%, rgba(99,169,228,.7) 66%, rgba(76,134,255,.7) 100%);
@@ -172,6 +184,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
   margin: 0 auto;
   padding: 25px 30px;
   text-align: left;
+  z-index: 1;
 }
 .l-txt-1 {
   font-size: 16px;

@@ -1,3 +1,3 @@
 .reviews-slaider .owl-nav button.owl-next::before {left: 300px;} .reviews-slaider .owl-nav button.owl-prev::before {right: 300px;}
 .main-slaider .owl-nav button.owl-next::before {left: 300px;} .main-slaider .owl-nav button.owl-prev::before {right: 300px;}
-.wrap-header {display: none;} .navbar.navbar-expand-md.navbar-light {display: flex;}
+.wrap-header {display: none;} .navbar.navbar-expand-md.navbar-light {display: flex;} .bg-white-color{display: none;} .shadow-cl {display: none;}
