@@ -49,6 +49,48 @@ $(document).ready(function(){
         return false;
 	});
 
+    $('form').on('submit', sendEmail);
+
+	function sendEmail (e) {
+        e.preventDefault();
+        var $form = $(this);
+        var hasError = false;
+
+        var $phoneInput = $form.find('input[name="phone"]');
+        var $reasonInput = $form.find('input[name="reason"]');
+
+        var valPhone = $phoneInput.length > 0 ? $phoneInput.val() : '';
+        var valReason = $reasonInput.length > 0 ? $reasonInput.val() : '';
+
+        if (valPhone == '') {
+            $phoneInput.addClass('invalid_text_field');
+            hasError = true;
+        }
+        setTimeout(function(){
+            $form.find('.invalid_text_field').removeClass('invalid_text_field');
+        }, 3000);
+        if (hasError) {
+            return false;
+        }
+        var obj = {
+            phone: valPhone,
+            reason: valReason,
+        };
+        $.ajax({
+            type: "POST",
+            url: "/mailpost.php",
+            data: obj,
+            contentType: "application/x-www-form-urlencoded;charset=UTF-8",
+            beforeSend: function(){
+            },
+            success: function(html){
+            	$.fancybox.close(true);
+                $phoneInput.val("");
+            },
+        });
+    }
+
+
 });
 
 $(window).scroll(function(){

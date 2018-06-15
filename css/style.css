@@ -777,3 +777,5 @@ transition: .3s;}
 	-moz-box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.75);
 	box-shadow: -1px 0px 18px 0px rgba(0,0,0,0.75);
 }
+
+.invalid_text_field {border: 1px solid red;}
