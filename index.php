@@ -68,18 +68,7 @@
 			<div class="row">
 				<div class="col-lg-12 pdg-0">
 					<div class="main-slaider owl-carousel">
-						<div class="slaid-1 slaid-4">
-							<h1 class="mg-b-1">Каждому сувенир в подарок</h1>
-							<form class="open-form" action="">
-								<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
-								<input type="text" name="phone" class="f-tel" placeholder="Номер телефона">
-								<input type="hidden" name="reason" value="4 слайд">
-								<input type="checkbox" name="check" class="check" checked>
-								<label for="check">Я согласен на обработку персональных данных</label>
-								<button class="btn-send">Отправить</button>
-							</form>
-						</div>
-						<div class="slaid-1">
+						<div class="slaid-1 slaid-5">
 							<h1 class="mg-b-1">ДОСТУПНЫЕ ТУРИСТИЧЕСКИЕ ЭКСКУРСИИ <br> В КРАСНОДАРСКОМ КРАЕ</h1>
 							<form class="open-form" action="">
 								<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
@@ -101,12 +90,12 @@
 								<button class="btn-send">Отправить</button>
 							</form>
 						</div>
-						<div class="slaid-1 slaid-5">
-							<h1 class="mg-b-1">Действует <br>СКИДКА 30%<br> на 2 и последующие экскурсии </h1>
+						<div class="slaid-1 slaid-4">
+							<h1 class="mg-b-1">Каждому сувенир в подарок</h1>
 							<form class="open-form" action="">
 								<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
 								<input type="text" name="phone" class="f-tel" placeholder="Номер телефона">
-								<input type="hidden" name="reason" value="5 слайд">
+								<input type="hidden" name="reason" value="4 слайд">
 								<input type="checkbox" name="check" class="check" checked>
 								<label for="check">Я согласен на обработку персональных данных</label>
 								<button class="btn-send">Отправить</button>
