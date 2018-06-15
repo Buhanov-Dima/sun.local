@@ -48,7 +48,7 @@
 						<div class="logo"><img src="/img/logo.png" alt=""></div>
 						<div class="menu">
 							<div class="top-menu">
-								<a class="btn-ex" href="#">Подобрать экскурсию</a>
+								<a data-fancybox data-animation-duration="700" data-src="#popup-modal" href="javascript:;" class="btn-ex" href="#">Подобрать экскурсию</a>
 								<a class="phone" href="#">+7 (999) 99-999-00</a>
 							</div>
 							<div class="bottom-menu">
@@ -97,7 +97,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">НАШИ ПРЕИМУЩЕСТВА</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">НАШИ ПРЕИМУЩЕСТВА</h1>
 					<div class="wrap-advantages mg-b-4">
 						<div class="img-circle">
 							<img src="/img/advantages/img-1.png" class="circle" alt="Cinque Terre">
@@ -128,7 +128,7 @@
 							<p>Доступные цены</p>
 						</div>
 						<div class="w-100 mx-auto">
-							<a class="btn-ex mg-t-5" href="#">Подобрать экскурсию</a>
+							<a data-fancybox data-animation-duration="700" data-src="#popup-modal" href="javascript:;" class="btn-ex mg-t-5">Подобрать экскурсию</a>
 						</div>
 					</div>
 				</div>
@@ -139,7 +139,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3">КАТАЛОГ ТУРОВ</h1>
+					<h1 class="standart-h1 mg-t-1">КАТАЛОГ ТУРОВ</h1>
 					<h2 class="text-center mg-b-1">ВЫБОР РАЗДЕЛА</h2>
 					<div class="wrap-turs mg-b-3">
 						<a href="#b-1">
@@ -190,12 +190,15 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">ЗНАКОМСТВО С СОЧИ</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">ЗНАКОМСТВО С СОЧИ</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<div class="znakom-thumb">
-								<img src="/img/slaider/01/1.jpg" alt="">
-							</div>
+							
+								<a data-fancybox data-animation-duration="700" data-src="#art-1" href="javascript:;" ><div class="znakom-thumb">
+									<img src="/img/slaider/01/1.jpg" alt="">
+								</div>
+							
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>“Огни ночного города”</b></p>
 								<p class="text-left">Обзорная экскурсия по вечернему Сочи, башня Ахун, парк Ривьера, Морской порт Продолжительночть 4 часа Ежедневно в 18:00</p>
@@ -206,9 +209,10 @@
 							</div>
 						</div>
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-2" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/02/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Обзорная по Сочи</b></p>
 								<p class="text-left">Обзорная экскурсия по Сочи + дача Сталина  Продолжительность 4 часов<br> Пятница в 14-00</p>
@@ -219,9 +223,10 @@
 							</div>
 						</div>
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-3" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/03/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Зеленый Сочи</b></p>
 								<p class="text-left">Обзорная экскурсия по Сочи, сад-музей, дерево Дружбы, фестивальный сквер Продолжительность 5 часов<br>
@@ -241,12 +246,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">Олимпийское наследие</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">Олимпийское наследие</h1>
 					<div class="wrap-znakomstva h-400">
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-4" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/04/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Олимпийский Сочи</b></p>
 								<p class="text-left">Красная поляна, Олимпийские объекты, Вечерний Олимпийский парк <br> Продолжительночть 10 часов<br> Ежедневно в 12:00</p>
@@ -257,9 +263,10 @@
 							</div>
 						</div>
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-5" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/05/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Путешествие в Олимпийские горы</b></p>
 								<p class="text-left">Красная поляна, Роза Хутор  Продолжительность 8 часов<br> Ежедневно в 9-00</p>
@@ -270,9 +277,10 @@
 							</div>
 						</div>
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-6" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/06/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Вечерняя Красная поляна</b></p>
 								<p class="text-left">Встречаем закат на пике, глинтвейн каждому бесплатно! Продолжительность 8 часов<br>
@@ -284,9 +292,10 @@
 							</div>
 						</div>
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-7" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/07/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Вечерний Олимпийский парк и шоу фонтанов</b></p>
 								<p class="text-left">Продолжительность 4 часов<br>
@@ -298,9 +307,10 @@
 							</div>
 						</div>
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-8" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/08/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Эксклюзивная программа «Всё включено»</b></p>
 								<p class="text-left">Красная поляна, Роза хутор, подъем в горы, Скайпарк Продолжительность 9 часов<br>
@@ -320,12 +330,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">Гостеприимная Абхазия</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">Гостеприимная Абхазия</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-9" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/09/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Золотое кольцо Абхазии </b></p>
 								<p class="text-left">Новоафонский монастырь, пещеры,  озеро Рица, Голубое озеро , курорт Пицунда, храм VI века Лыхны, Юпшарский каньон (каменный мешок), дегустация меда и вина <br> Продолжительночть 14 часов<br> Ежедневно в 7:00</p>
@@ -337,9 +348,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-10" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/10/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Озеро Рица + курорт Пицунда </b></p>
 								<p class="text-left">Гагрская колоннада, курорт Пицунда, Голубое озеро, Юпшарский каньон (каменный мешок), озеро Рица, дача Сталина<br> Продолжительночть 12 часов<br> Ежедневно в 7:00</p>
@@ -351,9 +363,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-11" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/11/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Новый Афон + Гагра</b></p>
 								<p class="text-left">Гагрская колоннада, Новоафонский монастырь (XIX в), храм Симона Канонита, водопад на Псырцхе, Новоафонская пещера, дача Сталина <br> Продолжительночть 14 часов<br> Ежедневно в 7:00</p>
@@ -365,9 +378,10 @@
 						</div>
 
 						<div class="znakom h-563">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-12" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/12/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>По святым местам Абхазии</b></p>
 								<p class="text-left">Всё включено! КАМАН (древнее село Абхазии), собор Симона Кананита, храм VIII века Каманы, Новоафонский монастырь<br> Продолжительночть 14 часов<br> Ежедневно в 7:00</p>
@@ -379,9 +393,10 @@
 						</div>
 
 						<div class="znakom h-563">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-13" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/13/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>VIP поездка по Абхазии</b></p>
 								<p class="text-left">Комфортабельные автомобили Hyundai Starex для небольших экскурсионных групп  до 8 человек<br>Гагра-колоннада, Гагрипш, озеро Рица, Голубое озеро, Юпшарский каньон (каменный мешок), слияние двух рек, чабгарский карниз, смотровая площадка, Молочный водопад, Новый Афон - мужской монастырь<br> Продолжительночть 10-12 часов<br> Ежедневно в 8:15</p>
@@ -400,12 +415,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">Природа Краснодарского края</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">Природа Краснодарского края</h1>
 					<div class="wrap-znakomstva h-420">
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-14" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/14/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Гора Ахун + Агурское ущелье</b></p>
 								<p class="text-left">Гора Ахун, видовая башня, Агурское ущелье, дегустация вина<br> Продолжительночть 4 часов<br> Ежедневно в 10:00, 14:00</p>
@@ -417,9 +433,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-15" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/15/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Гора Ахун + Тисо-самшитовая роща</b></p>
 								<p class="text-left">Гора Ахун, видовая башня, Тисо-самшитовая роща<br> Продолжительночть 4 часов<br> Пятница в 14-00</p>
@@ -431,9 +448,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-16" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/16/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Гора Ахун + Дача Сталина</b></p>
 								<p class="text-left">Гора Ахун, видовая башня, Дача Сталина<br> Продолжительночть 4 часов<br> Вторник в 13-30</p>
@@ -445,9 +463,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-17" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/17/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>33 водопада</b></p>
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека <br> Продолжительночть 7 часов<br> Вторник, четверг в 12:30</p>
@@ -459,9 +478,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-18" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/18/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>33 водопада + Тайна Волконского дольмена</b></p>
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека, тайна Волконского дольмена<br>Продолжительночть 8 часов<br> Воскресенье в 10-00 </p>
@@ -473,9 +493,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-19" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/19/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>33 водопада + Вечернее шоу Адыгов</b></p>
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека, вечернее шоу Адыгов <br>Продолжительночть 10 часов<br> Понедельник, среда, суббота в 12:30 </p>
@@ -487,9 +508,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-20" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/20/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Воронцовские пещеры</b></p>
 								<p class="text-left"><br>Продолжительночть 5 часов<br> Вторник, четверг, суббота в 14:00</p>
@@ -501,9 +523,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-21" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/21/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Змейковские водопады</b></p>
 								<p class="text-left"><br>Продолжительночть 4 часа<br> Ежедневно в 14:00</p>
@@ -522,12 +545,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">Святые места Сочи</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">Святые места Сочи</h1>
 					<div class="wrap-znakomstva h-517">
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-22" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/22/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Троице-Георгиевский женский монастырь</b></p>
 								<p class="text-left">Продолжительночть 5 часов<br> Понедельник, четверг в 14:00</p>
@@ -539,9 +563,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-23" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/23/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>На краю земли</b></p>
 								<p class="text-left">Горные села – Нижний и Верхний Солох-аул, Родина русского чая, дом-музей чая, памятник природы «Дагомысские корыта», водоскаты реки «Серебряной», горная дорога, видовая площадка «На краю земли», мужской монастырь  «Крестовая пустынь» <br> Продолжительночть 7 часов<br> Ежедневно в 9:00</p>
@@ -560,12 +585,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">Джиппинг</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">Джиппинг</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-24" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/24/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Джиппинг</b></p>
 								<p class="text-left">10 маршрутов на выбор <br> Продолжительность от 4 до 10 часов в зависимости от выбранного маршрута <br> Ежедневно, время зависит от маршрута</p>
@@ -577,9 +603,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-25" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/25/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Джиппинг Абхазия</b></p>
 								<p class="text-left">Гегский водопад, озеро Рица<br> Продолжительночть 10 часов<br> Ежедневно в 7:00</p>
@@ -591,9 +618,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-26" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/26/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>VIP джиппинг</b></p>
 								<p class="text-left">3 программы на выбор: Большой Сочи, Высокогорная, Абхазия <br> Продолжительночть 12 часов<br> Ежедневно в 8:00</p>
@@ -612,12 +640,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">Морские прогулки</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">Морские прогулки</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-27" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/27/1.jpeg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Прогулка на яхте</b></p>
 								<p class="text-left">Продолжительность 1 час в зависимости от выбранного маршрута <br> Ежедневно, каждый час</p>
@@ -629,9 +658,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-28" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/28/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Рыбалка на яхте</b></p>
 								<p class="text-left">Продолжительночть 3 часа<br> Ежедневно в 8:00, 9:00</p>
@@ -643,9 +673,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-29" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/29/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Аренда яхты</b></p>
 								<p class="text-left">3 программы на выбор: Большой Сочи, Высокогорная, Абхазия <br> Продолжительночть 12 часов<br> Ежедневно в 8:00</p>
@@ -664,12 +695,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">Яркие впечатления</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">Яркие впечатления</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-30" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/30/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Обезьяний питомник</b></p>
 								<p class="text-left">Обзорная экскурсия, посещение и экскурсия по Обезьяньему питомнику<br>Продолжительность 5 часов<br> Понедельник, воскресенье в 14:00</p>
@@ -681,9 +713,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-31" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/31/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Скайпарк</b></p>
 								<p class="text-left">Трансфер с обзорной экскурсией по Сочи<br>Продолжительночть 5 часов<br>Ежедневно в 11:30</p>
@@ -695,9 +728,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-32" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/32/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Конные прогулки</b></p>
 								<p class="text-left">Трансфер с обзорной экскурсией, 2х-часовая конная прогулка<br> Продолжительночть 3 часа<br> Ежедневно в 10:00, 14:00</p>
@@ -709,9 +743,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-33" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/33/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Прогулка на квадроциклах в горах</b></p>
 								<p class="text-left">Трансфер с обзорной экскурсией, прогулка на квадроциклах<br> Продолжительночть 4 часов<br> Ежедневно в 9:00, 11:30, 14:30, 17:00</p>
@@ -723,9 +758,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-34" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/34/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Форелевое хозяйство + Шоу стеклодувов</b></p>
 								<p class="text-left">Обзорная экскурсия, Форелевое хозяйство, выставочный зал, Шоу стеклодувов, мастер-класс на горелке<br> Продолжительночть 5 часов<br> Среда, четверг, суббота в  14:00</p>
@@ -737,9 +773,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-35" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/35/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Дайвинг</b></p>
 								<p class="text-left">Трансфер с обзорной экскурсией, прогулка на квадроциклах<br> Продолжительность 2-3 часа<br> Ежедневно, любое удобное для Вас время</p>
@@ -751,9 +788,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-36" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/36/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Сплав по реке Мзымта</b></p>
 								<p class="text-left">Продолжительночть 5 часов<br> Ежедневно 14:00</p>
@@ -765,9 +803,10 @@
 						</div>
 
 						<div class="znakom">
-							<div class="znakom-thumb">
+							<a data-fancybox data-animation-duration="700" data-src="#art-37" href="javascript:;" ><div class="znakom-thumb">
 								<img src="/img/slaider/37/1.jpg" alt="">
 							</div>
+							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Знаменитый Чайный терем</b></p>
 								<p class="text-left">Продолжительночть 4 часа<br> Пятница в 14:30</p>
@@ -796,7 +835,7 @@
 						<div class="wrap-company bg-3 w-50">
 							<p class="white-txt">Наша компания уже более 10 лет  занимается проведением экскурсий по городу Сочи и Абхазии.  Мы ежедневно проводим более 100 экскурсий по разным маршрутам и дарим самые незабываемые эмоции и впечатления гостям нашего курорта.</p>
 						</div>
-						<a href="#" class="btn_red">Получить консультацию</a>
+						<a data-fancybox data-animation-duration="700" data-src="#popup-modal" href="javascript:;" class="btn_red">Получить консультацию</a>
 					</div>
 				</div>
 			</div>
@@ -806,7 +845,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="standart-h1 mg-t-3 mg-b-1">ОТЗЫВЫ НАШИХ КЛИЕНТОВ</h1>
+					<h1 class="standart-h1 mg-t-1 mg-b-1">ОТЗЫВЫ НАШИХ КЛИЕНТОВ</h1>
 					<div class="wrap-reviews">
 						<div class="reviews-slaider owl-carousel">
 							<div class="item-review">
@@ -1931,6 +1970,21 @@
 	          		Без дополнительных расходов.</b></p>
 	          		<span>Цена: 950 р.</span>
 	          	</div>
+	          </div>
+	        </div>
+	    </div>
+	</div>
+
+	<div class="card">
+		<div class="card-body">
+			<div style="display: none;" id="popup-modal" class="animated-modal">
+	          		<form class="open-form popup-form" action="">
+						<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
+						<input type="text" name="f-tel" id="f-tel" placeholder="Номер телефона">
+						<input type="checkbox" name="check" class="check">
+						<label for="check">Я согласен на обработку персональных данных</label>
+						<button class="btn-send">Отправить</button>
+					</form>
 	          </div>
 	        </div>
 	    </div>
