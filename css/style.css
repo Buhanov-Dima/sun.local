@@ -654,6 +654,8 @@ footer {
 .popup-slaider {
 	width: 100%;
 	margin: auto;
+	max-width: 880px;
+	padding: 0 50px;
 }
 .h-400 .znakom {min-height: 400px;}
 .h-563 {min-height: 563px;}
@@ -666,4 +668,48 @@ footer {
 
 .w-100.mx-auto .btn-ex {
 	margin: 50px auto 30px;
+}
+
+.popup-slaider.owl-carousel .owl-nav.disabled {display: block;}
+.popup-slaider .owl-nav {position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin: auto; width: 1px; height: 1px;}
+.popup-slaider .owl-dots {display: none;}
+
+.popup-slaider .owl-nav button.owl-next {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	outline: none;
+} 
+.popup-slaider .owl-nav button.owl-next::before {
+	content: '';
+	display: block;
+	position: absolute;
+	left: 400px;
+	top: -23px;
+	width: 45px;
+	height: 50px;
+	background: url(/img/fa-arrow-right-black.png) no-repeat center;
+	
+} 
+.popup-slaider .owl-nav button.owl-prev {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	outline: none;
+}
+.popup-slaider .owl-nav button.owl-prev::before {
+	content: '';
+	display: block;
+	position: absolute;
+	right: 400px;
+	top: -23px;
+	width: 45px;
+	height: 50px;
+	background: url(/img/fa-arrow-left-black.png) no-repeat center;
 }
