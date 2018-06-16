@@ -86,6 +86,10 @@ $(document).ready(function(){
             success: function(html){
             	$.fancybox.close(true);
                 $phoneInput.val("");
+                $.fancybox.open({src  : '#popup-modal-2', type : 'inline',});
+                setTimeout(function(){
+		            $.fancybox.close(true);
+		        }, 2000);
             },
         });
     }
