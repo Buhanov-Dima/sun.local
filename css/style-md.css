@@ -1,4 +1,4 @@
 .reviews-slaider .owl-nav button.owl-next::before {display: none;} .reviews-slaider .owl-nav button.owl-prev::before {display: none;}
 .main-slaider .owl-nav button.owl-next::before {display: none;} .main-slaider .owl-nav button.owl-prev::before {display: none;}
 .znakom.h-563 {min-height: 540px;} .btn_red {bottom: -20%;} .down-footer p {max-width: 530px;}
-.wrap-popup {max-width: 560px;}
+.wrap-popup {max-width: 560px;} .bg-up-footer {height: 145px;}

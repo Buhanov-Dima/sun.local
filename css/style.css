@@ -149,22 +149,14 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 	align-items: center;
 }
 .slaid-1.slaid-2 {
-	background: url(/img/slaid-3.jpg) no-repeat left top;
-	background-size: cover;
-}
-.slaid-1.slaid-3 {
 	background: url(/img/slaid-2.jpg) no-repeat left top;
 	background-size: cover;
 }
-.slaid-1.slaid-4 {
-	background: url(/img/slaid-4.jpg) no-repeat left top;
+.slaid-1.slaid-3 {
+	background: url(/img/slaid-3.jpg) no-repeat left top;
 	background-size: cover;
 }
-.slaid-1.slaid-5 {
-	background: url(/img/slaid-5.jpg) no-repeat left top;
-	background-size: cover;
-}
-.slaid-1.slaid-5::after, .slaid-1.slaid-4::after {
+.slaid-1::after, .slaid-1.slaid-2::after, .slaid-1.slaid-3::after {
 	content: '';
 	position: absolute;
 	width: 100%;
@@ -463,18 +455,18 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
 }
 .wrap-company.bg-1 {
 	background: url(/img/bg-company-1.jpg) no-repeat center;
-	background-size: 100%;
+	background-size: cover;
 }
 .wrap-company.bg-2 {
 	background: url(/img/bg-company-2.jpg) no-repeat center;
-	background-size: 100%;
+	background-size: cover;
 	height: 300px;
 	align-items: flex-start;
 	padding-top: 30px;
 }
 .wrap-company.bg-3 {
 	background: url(/img/bg-company-3.jpg) no-repeat center;
-	background-size: 100%;
+	background-size: cover;
 	height: 300px;
 	align-items: flex-start;
 	padding-top: 30px;
@@ -779,3 +771,12 @@ transition: .3s;}
 }
 
 .invalid_text_field {border: 1px solid red;}
+.wrap-popup-thanks {
+	padding: 50px;
+	text-align: center;
+	background: linear-gradient(45deg, rgba(76,134,255, .1 ), rgba(76,134,255, .8 ));
+}
+.wrap-popup-thanks h3{
+	
+}
+.wrap-popup-thanks p{}

@@ -1,3 +1,4 @@
 .reviews-slaider .owl-nav button.owl-next::before {left: 300px;} .reviews-slaider .owl-nav button.owl-prev::before {right: 300px;}
 .main-slaider .owl-nav button.owl-next::before {left: 300px;} .main-slaider .owl-nav button.owl-prev::before {right: 300px;}
 .wrap-header {display: none;} .navbar.navbar-expand-md.navbar-light {display: flex;} .bg-white-color{display: none;} .shadow-cl {display: none;}
+#reviews {margin-top: 60px;} .btn_red {bottom: -55px;} .main-slaider {margin-top: 0;}

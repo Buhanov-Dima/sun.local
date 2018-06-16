@@ -1,6 +1,7 @@
-.tur {width: 280px; } .slaid-1 h1 {font-size: 18px;} .standart-h1 {font-size: 18px;} .sochi-price {position: relative; padding: 0;}
+.tur {width: 280px; } .slaid-1 h1 {font-size: 18px;} .standart-h1 {font-size: 18px;} .sochi-price {position: relative; padding: 0; bottom: 8px;}
 .znakom-txt {padding: 0 5px;} .znakom {min-height: auto;} .footer-form {width: 100%; flex-wrap: wrap;} .wrap-footer h1 {width: 100%;} .wrap-footer {flex-wrap: wrap; text-align: center;}
 #f-phone {margin: 10px 0;} .bg-up-footer {height: 210px;} .down-footer {flex-wrap: wrap;} .wrap-company {padding: 5px;}
 .white-txt {font-size: 14px;} .wrap-popup {max-width: 300px;} .p-txt-1 {padding: 5px;}
 .open-form.popup-form {padding: 10px;} .p-txt-1 p {max-width: 100%;} .btn-send {height: 35px; padding: 0;}
-.main-slaider {margin-top: 0;} #reviews {margin-top: 60px;} .btn_red {width: 100%;} .popup-slaider {padding: 0;} .wrap-popup .p-txt p {padding: 0;}
+.main-slaider {margin-top: 0;} #reviews {margin-top: 60px;} .btn_red {width: 80%;} .popup-slaider {padding: 0;} .wrap-popup .p-txt p {padding: 0;}
+.sochi-price span {font-size: 18px;} .btn_read_more {width: 125px;} .h-517 .znakom, .h-420 .znakom, .h-400 .znakom, .znakom.h-563 {min-height: auto;}
