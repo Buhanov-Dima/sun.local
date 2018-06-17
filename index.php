@@ -48,7 +48,7 @@
 						<div class="logo"><img src="/img/logo.png" alt=""></div>
 						<div class="menu">
 							<div class="top-menu">
-								<a data-fancybox data-animation-duration="700" data-src="#popup-modal" href="javascript:;" class="btn-ex" href="#">Подобрать экскурсию</a>
+								<a data-fancybox data-animation-duration="700" data-src="#popup-modal" href="javascript:;" class="btn-ex">Подобрать экскурсию</a>
 								<a class="phone" href="#">+7 (999) 99-999-00</a>
 							</div>
 							<div class="bottom-menu">
@@ -69,7 +69,7 @@
 				<div class="col-lg-12 pdg-0">
 					<div class="main-slaider owl-carousel">
 						<div class="slaid-1">
-							<h1 class="mg-b-1">ДОСТУПНЫЕ ТУРИСТИЧЕСКИЕ ЭКСКУРСИИ <br> В КРАСНОДАРСКОМ КРАЕ</h1>
+							<h1 class="mg-b-1">ДОСТУПНЫЕ ТУРИСТИЧЕСКИЕ ЭКСКУРСИИ <br> В СОЧИ И АБХАЗИИ</h1>
 							<form class="open-form" action="">
 								<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
 								<input type="text" name="phone" class="f-tel" placeholder="Номер телефона">
@@ -213,8 +213,8 @@
 							
 							</a>
 							<div class="znakom-txt">
-								<p class="text-center"><b>“Огни ночного города”</b></p>
-								<p class="text-left">Обзорная экскурсия по вечернему Сочи, башня Ахун, парк Ривьера, Морской порт Продолжительночть 4 часа Ежедневно в 18:00</p>
+								<p class="text-center"><b>Огни ночного города</b></p>
+								<p class="text-left">Обзорная экскурсия по вечернему Сочи, башня Ахун, парк Ривьера, Морской порт<br>Продолжительночть 4 часа<br>Ежедневно в 18:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-1" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
@@ -228,7 +228,7 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Обзорная по Сочи</b></p>
-								<p class="text-left">Обзорная экскурсия по Сочи + дача Сталина  Продолжительность 4 часов<br> Пятница в 14-00</p>
+								<p class="text-left">Обзорная экскурсия по Сочи + дача Сталина<br>Продолжительность 4 часов<br>Пятница в 14-00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
 									<a  data-fancybox data-animation-duration="700" data-src="#art-2" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
@@ -243,7 +243,7 @@
 							<div class="znakom-txt">
 								<p class="text-center"><b>Зеленый Сочи</b></p>
 								<p class="text-left">Обзорная экскурсия по Сочи, сад-музей, дерево Дружбы, фестивальный сквер Продолжительность 5 часов<br>
-								Понедельник, четверг, воскресенье в 14-00</p>
+								Понедельник, четверг, воскресенье<br>14-00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
 									<a  data-fancybox data-animation-duration="700" data-src="#art-3" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
@@ -271,7 +271,7 @@
 								<p class="text-left">Красная поляна, Олимпийские объекты, Вечерний Олимпийский парк <br> Продолжительночть 10 часов<br> Ежедневно в 12:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-4" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-4" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -285,7 +285,7 @@
 								<p class="text-left">Красная поляна, Роза Хутор  Продолжительность 8 часов<br> Ежедневно в 9-00</p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-5" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-5" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -296,11 +296,11 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Вечерняя Красная поляна</b></p>
-								<p class="text-left">Встречаем закат на пике, глинтвейн каждому бесплатно! Продолжительность 8 часов<br>
+								<p class="text-left">Встречаем закат на пике, глинтвейн каждому бесплатно!<br>Продолжительность 8 часов<br>
 								Ежедневно в 14-00</p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-6" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-6" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -315,7 +315,7 @@
 								Ежедневно в 18-00</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-7" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-7" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -326,11 +326,11 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Эксклюзивная программа «Всё включено»</b></p>
-								<p class="text-left">Красная поляна, Роза хутор, подъем в горы, Скайпарк Продолжительность 9 часов<br>
+								<p class="text-left">Красная поляна, Роза хутор, подъем в горы, Скайпарк<br>Продолжительность 9 часов<br>
 								Ежедневно в 9-00</p>
 								<div class="sochi-price">
 									<span>Цена: 3990 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-8" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-8" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -355,7 +355,7 @@
 								<p class="text-left">Новоафонский монастырь, пещеры,  озеро Рица, Голубое озеро , курорт Пицунда, храм VI века Лыхны, Юпшарский каньон (каменный мешок), дегустация меда и вина <br> Продолжительночть 14 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1400 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-9" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-9" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -370,7 +370,7 @@
 								<p class="text-left">Гагрская колоннада, курорт Пицунда, Голубое озеро, Юпшарский каньон (каменный мешок), озеро Рица, дача Сталина<br> Продолжительночть 12 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1550 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-10" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-10" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -385,7 +385,7 @@
 								<p class="text-left">Гагрская колоннада, Новоафонский монастырь (XIX в), храм Симона Канонита, водопад на Псырцхе, Новоафонская пещера, дача Сталина <br> Продолжительночть 14 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1200 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-11" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-11" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -400,7 +400,7 @@
 								<p class="text-left">Всё включено! КАМАН (древнее село Абхазии), собор Симона Кананита, храм VIII века Каманы, Новоафонский монастырь<br> Продолжительночть 14 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 2000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-12" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-12" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -415,7 +415,7 @@
 								<p class="text-left">Комфортабельные автомобили Hyundai Starex для небольших экскурсионных групп  до 8 человек<br>Гагра-колоннада, Гагрипш, озеро Рица, Голубое озеро, Юпшарский каньон (каменный мешок), слияние двух рек, чабгарский карниз, смотровая площадка, Молочный водопад, Новый Афон - мужской монастырь<br> Продолжительночть 10-12 часов<br> Ежедневно в 8:15</p>
 								<div class="sochi-price">
 									<span>Цена: 3000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-13" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-13" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -440,7 +440,7 @@
 								<p class="text-left">Гора Ахун, видовая башня, Агурское ущелье, дегустация вина<br> Продолжительночть 4 часов<br> Ежедневно в 10:00, 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-14" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-14" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -455,7 +455,7 @@
 								<p class="text-left">Гора Ахун, видовая башня, Тисо-самшитовая роща<br> Продолжительночть 4 часа<br> Пятница в 14-00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-15" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-15" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -470,7 +470,7 @@
 								<p class="text-left">Гора Ахун, видовая башня, Дача Сталина<br> Продолжительночть 4 часов<br> Вторник в 13-30</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-16" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-16" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -485,7 +485,7 @@
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека <br> Продолжительночть 7 часов<br> Вторник, четверг в 12:30</p>
 								<div class="sochi-price">
 									<span>Цена: 750 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-17" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-17" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -500,7 +500,7 @@
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека, тайна Волконского дольмена<br>Продолжительночть 8 часов<br> Воскресенье в 10-00 </p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-18" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-18" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -515,7 +515,7 @@
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека, вечернее шоу Адыгов <br>Продолжительночть 10 часов<br> Понедельник, среда, суббота в 12:30 </p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-19" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-19" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -530,7 +530,7 @@
 								<p class="text-left"><br>Продолжительночть 5 часов<br> Вторник, четверг, суббота в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-20" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-20" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -545,7 +545,7 @@
 								<p class="text-left">Змейковские водопады, обзорная экскурсия по Сочи<br>Продолжительночть 4 часа<br> Ежедневно в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-21" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-21" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -570,7 +570,7 @@
 								<p class="text-left">Продолжительночть 5 часов<br> Понедельник, четверг в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-22" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-22" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -585,7 +585,7 @@
 								<p class="text-left">Горные села – Нижний и Верхний Солох-аул, Родина русского чая, дом-музей чая, памятник природы «Дагомысские корыта», водоскаты реки «Серебряной», горная дорога, видовая площадка «На краю земли», мужской монастырь  «Крестовая пустынь» <br> Продолжительночть 7 часов<br> Ежедневно в 9:00</p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-23" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-23" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -610,7 +610,7 @@
 								<p class="text-left">10 маршрутов на выбор <br> Продолжительность от 4 до 10 часов в зависимости от выбранного маршрута <br> Ежедневно, время зависит от маршрута</p>
 								<div class="sochi-price">
 									<span>Цена: от 1500 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-24" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-24" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -625,7 +625,7 @@
 								<p class="text-left">Гегский водопад, озеро Рица<br> Продолжительночть 10 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 2500 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-25" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-25" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -640,7 +640,7 @@
 								<p class="text-left">3 программы на выбор: Большой Сочи, Высокогорная, Абхазия <br> Продолжительночть 12 часов<br> Ежедневно в 8:00</p>
 								<div class="sochi-price">
 									<span>Цена: 5000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-26" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-26" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -665,7 +665,7 @@
 								<p class="text-left">Продолжительность 1 час в зависимости от выбранного маршрута <br> Ежедневно, каждый час</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-27" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-27" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -680,7 +680,7 @@
 								<p class="text-left">Продолжительночть 3 часа<br> Ежедневно в 8:00, 9:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1500 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-28" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-28" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -695,7 +695,7 @@
 								<p class="text-left">К Вашим услугам большой выбор яхт различных моделей, с комфортным размещением на яхте до 11 человек...</p>
 								<div class="sochi-price">
 									<span>Цена: от 5000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-29" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-29" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -720,7 +720,7 @@
 								<p class="text-left">Обзорная экскурсия, посещение и экскурсия по Обезьяньему питомнику<br>Продолжительность 5 часов<br> Понедельник, воскресенье в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-30" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-30" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -735,7 +735,7 @@
 								<p class="text-left">Трансфер с обзорной экскурсией по Сочи<br>Продолжительночть 5 часов<br>Ежедневно в 11:30</p>
 								<div class="sochi-price">
 									<span>Цена: 400 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-31" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-31" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -750,7 +750,7 @@
 								<p class="text-left">Трансфер с обзорной экскурсией, 2х-часовая конная прогулка<br> Продолжительночть 3 часа<br> Ежедневно в 10:00, 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: от 1100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-32" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-32" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -765,7 +765,7 @@
 								<p class="text-left">Трансфер с обзорной экскурсией, прогулка на квадроциклах<br> Продолжительночть 4 часа<br> Ежедневно в 9:00, 11:30, 14:30, 17:00</p>
 								<div class="sochi-price">
 									<span>Цена: от 1100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-33" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-33" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -780,7 +780,7 @@
 								<p class="text-left">Обзорная экскурсия, Форелевое хозяйство, выставочный зал, Шоу стеклодувов, мастер-класс на горелке<br> Продолжительночть 5 часов<br> Среда, четверг, суббота в  14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-34" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-34" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -795,7 +795,7 @@
 								<p class="text-left">Продолжительность 2-3 часа<br> Ежедневно, любое удобное для Вас время</p>
 								<div class="sochi-price">
 									<span>Цена: от 2100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-35" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-35" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -810,7 +810,7 @@
 								<p class="text-left">Продолжительночть 5 часов<br> Ежедневно 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1400 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-36" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-36" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -825,7 +825,7 @@
 								<p class="text-left">Продолжительночть 4 часа<br> Пятница в 14:30</p>
 								<div class="sochi-price">
 									<span>Цена: 950 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-37" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-animation-duration="700" data-src="#art-37" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
