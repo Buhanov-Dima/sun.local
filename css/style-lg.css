@@ -4,3 +4,4 @@
 .wrap-company.bg-1, .wrap-company.bg-2, .wrap-company.bg-3 {background-size: cover;} 
 .wrap-popup {max-width: 720px;} .wrap-popup .p-txt p {max-width: 100%;} .p-txt {flex-wrap: wrap;} .p-txt-1 p {width: 100%; font-size: 16px;}
 .p-txt-1 span {font-size: 18px;} .p-txt-1 {flex-wrap: wrap;} .znakom.h-563.lg-height {min-height: 440px;} .btn_red {bottom: 10px;} #block-3 {background: url(/img/bg-turs.jpg) no-repeat top; background-size: cover;}
+.wrap-company {padding: 0 15px;}

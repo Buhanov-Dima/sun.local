@@ -6,6 +6,7 @@ $(document).ready(function(){
     nav:true,
     dots:true,
     autoHeight:true,
+    autoplay:false,
     navText:false,
         responsive:{
             320:{
@@ -22,6 +23,7 @@ $(document).ready(function(){
     margin: 20,
     nav:true,
     dots:true,
+    autoplay:false,
     navText:false,
         responsive:{
             320:{
@@ -38,6 +40,7 @@ $(document).ready(function(){
     margin: 10,
     nav:true,
     dots:true,
+    autoplay:false,
     navText:false,
     items:1
     });

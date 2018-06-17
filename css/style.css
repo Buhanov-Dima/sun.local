@@ -491,7 +491,7 @@ h1, h2, h3, h4, h5, h6, a, p {font-family: 'Roboto Condensed', sans-serif; margi
   	align-items: center;
   	left: 0;
   	right: 0;
-  	bottom: 45px;
+  	bottom: 13px;
   	margin: auto;
   	transition: .3s;
 }

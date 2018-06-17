@@ -839,14 +839,14 @@
 			<div class="row">
 				<div class="col-md-12 pdg-0">
 					<div class="wrap-company bg-1 mg-t-3">
-						<p class="white-txt">Наша компания уже более 10 лет  занимается проведением экскурсий по городу Сочи и Абхазии.  Мы ежедневно проводим более 100 экскурсий по разным маршрутам и дарим самые незабываемые эмоции и впечатления гостям нашего курорта.</p>
+						<p class="white-txt">Наша компания уже более 10 лет занимается проведением экскурсий по городу Сочи и Абхазии.  Мы ежедневно проводим более 100 экскурсий по разным маршрутам и дарим самые незабываемые эмоции и впечатления гостям нашего курорта.</p>
 					</div>
 					<div class="fx-cnt">
 						<div class="wrap-company bg-2 w-50">
-							<p class="white-txt">Наша компания уже более 10 лет  занимается проведением экскурсий по городу Сочи и Абхазии.  Мы ежедневно проводим более 100 экскурсий по разным маршрутам и дарим самые незабываемые эмоции и впечатления гостям нашего курорта.</p>
+							<p class="white-txt">Мы способны показать и рассказать об исторических и значимых местах Сочи и Абхазии, что не оставит Вас равнодушными.</p>
 						</div>
 						<div class="wrap-company bg-3 w-50">
-							<p class="white-txt">Наша компания уже более 10 лет  занимается проведением экскурсий по городу Сочи и Абхазии.  Мы ежедневно проводим более 100 экскурсий по разным маршрутам и дарим самые незабываемые эмоции и впечатления гостям нашего курорта.</p>
+							<p class="white-txt">Всё зависит от Ваших пожеланий и предпочтений, просто свяжитесь с нами, позвоните или оставьте заявку и Вы сразу получите подробную консультацию по экскурсиям и всем интересующим вас вопросам.  Мы подберем самый лучший вариант экскурсии именно для Вас!</p>
 						</div>
 						<a data-fancybox data-animation-duration="700" data-src="#popup-modal" href="javascript:;" class="btn_red">Получить консультацию</a>
 					</div>
@@ -862,10 +862,16 @@
 					<div class="wrap-reviews">
 						<div class="reviews-slaider owl-carousel">
 							<div class="item-review">
-								<img src="/img/video.jpg" alt="">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/vF-DL_91cn8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 							</div>
 							<div class="item-review">
-								<img src="/img/video.jpg" alt="">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/yGSF7JITVc4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+							<div class="item-review">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/GsjfUUHHnrI?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</div>
+							<div class="item-review">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/EHKS_5yFULk?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>
