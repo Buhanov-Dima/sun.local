@@ -270,7 +270,7 @@
 								<p class="text-center"><b>Олимпийский Сочи</b></p>
 								<p class="text-left">Красная поляна, Олимпийские объекты, Вечерний Олимпийский парк <br> Продолжительночть 10 часов<br> Ежедневно в 12:00</p>
 								<div class="sochi-price">
-									<span>Цена: 600 р.</span>
+									<span>Цена: 1000 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-4" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
@@ -452,7 +452,7 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Гора Ахун + Тисо-самшитовая роща</b></p>
-								<p class="text-left">Гора Ахун, видовая башня, Тисо-самшитовая роща<br> Продолжительночть 4 часов<br> Пятница в 14-00</p>
+								<p class="text-left">Гора Ахун, видовая башня, Тисо-самшитовая роща<br> Продолжительночть 4 часа<br> Пятница в 14-00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-15" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
@@ -542,7 +542,7 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Змейковские водопады</b></p>
-								<p class="text-left"><br>Продолжительночть 4 часа<br> Ежедневно в 14:00</p>
+								<p class="text-left">Змейковские водопады, обзорная экскурсия по Сочи<br>Продолжительночть 4 часа<br> Ежедневно в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-21" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
@@ -692,7 +692,7 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Аренда яхты</b></p>
-								<p class="text-left">3 программы на выбор: Большой Сочи, Высокогорная, Абхазия <br> Продолжительночть 12 часов<br> Ежедневно в 8:00</p>
+								<p class="text-left">К Вашим услугам большой выбор яхт различных моделей, с комфортным размещением на яхте до 11 человек...</p>
 								<div class="sochi-price">
 									<span>Цена: от 5000 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-29" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
@@ -749,7 +749,7 @@
 								<p class="text-center"><b>Конные прогулки</b></p>
 								<p class="text-left">Трансфер с обзорной экскурсией, 2х-часовая конная прогулка<br> Продолжительночть 3 часа<br> Ежедневно в 10:00, 14:00</p>
 								<div class="sochi-price">
-									<span>Цена: от 5000 р.</span>
+									<span>Цена: от 1100 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-32" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
@@ -762,7 +762,7 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Прогулка на квадроциклах в горах</b></p>
-								<p class="text-left">Трансфер с обзорной экскурсией, прогулка на квадроциклах<br> Продолжительночть 4 часов<br> Ежедневно в 9:00, 11:30, 14:30, 17:00</p>
+								<p class="text-left">Трансфер с обзорной экскурсией, прогулка на квадроциклах<br> Продолжительночть 4 часа<br> Ежедневно в 9:00, 11:30, 14:30, 17:00</p>
 								<div class="sochi-price">
 									<span>Цена: от 1100 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-33" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
@@ -792,7 +792,7 @@
 							</a>
 							<div class="znakom-txt">
 								<p class="text-center"><b>Дайвинг</b></p>
-								<p class="text-left">Трансфер с обзорной экскурсией, прогулка на квадроциклах<br> Продолжительность 2-3 часа<br> Ежедневно, любое удобное для Вас время</p>
+								<p class="text-left">Продолжительность 2-3 часа<br> Ежедневно, любое удобное для Вас время</p>
 								<div class="sochi-price">
 									<span>Цена: от 2100 р.</span>
 									<a data-fancybox data-animation-duration="700" data-src="#art-35" href="javascript:;" class="btn_read_more" href="#">ПОДРОБНЕЕ</a>
