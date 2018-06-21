@@ -24,7 +24,7 @@
 	<header>
 	<nav class="navbar navbar-expand-md navbar-light">
 		  <a class="navbar-brand" href="#"><img src="/img/logo.png" class="nav-logo" alt=""></a>
-		  <a class="nav-phone" href="tel:+7 (999) 99-999-00">+7 (999) 99-999-00</a>
+		  <a class="nav-phone" href="tel:+7 (800) 234 30 45">+7 (800) 234 30 45</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
 		  </button>
@@ -55,7 +55,7 @@
 						<div class="menu">
 							<div class="top-menu">
 								<a data-fancybox data-animation-duration="700" data-src="#popup-modal" href="javascript:;" class="btn-ex">Подобрать экскурсию</a>
-								<a class="phone" href="#">+7 (999) 99-999-00</a>
+								<a class="phone" href="tel:+7 (800) 234 30 45">+7 (800) 234 30 45</a>
 							</div>
 							<div class="bottom-menu">
 								<a href="#our">НАШИ ПРЕИМУЩЕСТВА</a>
@@ -903,7 +903,7 @@
 					<div class="down-footer">
 						<a href="#"><img src="/img/logo.png" alt=""></a>
 						<p> Предложение не является публичной офертой.Заказывая услуги,Вы соглашаетесь на обработку<br>своих персональных данных и принимаете условия политики конфиденциальности.<br>Все права защищены.</p>
-						<a class="phone-blue" href="#">+7 (999) 99-999-00</a>
+						<a class="phone-blue" href="tel:+7 (800) 234 30 45">+7 (800) 234 30 45</a>
 					</div>
 				</div>
 			</div>
