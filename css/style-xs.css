@@ -5,3 +5,5 @@
 .open-form.popup-form {padding: 10px;} .p-txt-1 p {max-width: 100%;} .btn-send {height: 35px; padding: 0;}
 .main-slaider {margin-top: 0;} #reviews {margin-top: 60px;} .btn_red {width: 80%;} .popup-slaider {padding: 0;} .wrap-popup .p-txt p {padding: 0;}
 .sochi-price span {font-size: 18px;} .btn_read_more {width: 125px;} .h-517 .znakom, .h-420 .znakom, .h-400 .znakom, .znakom.h-563 {min-height: auto;}
+.reviews-slaider .owl-nav button.owl-next::before {display: none;} .reviews-slaider .owl-nav button.owl-prev::before {display: none;}
+.main-slaider .owl-nav button.owl-prev::before {display: none;} .main-slaider .owl-nav button.owl-next::before {display: none;}
