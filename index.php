@@ -23,7 +23,7 @@
 <div id="page-preloader"><span class="spinner"></span></div>
 	<header>
 	<nav class="navbar navbar-expand-md navbar-light">
-		  <a class="navbar-brand" href="#"><img src="/img/logo.png" class="nav-logo" alt=""></a>
+		  <a class="navbar-brand" href="/"><img src="/img/logo.png" class="nav-logo" alt=""></a>
 		  <a class="nav-phone" href="tel:+7 (800) 234 30 45">+7 (800) 234 30 45</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
@@ -901,7 +901,7 @@
 				</div>
 				<div class="col-md-12">
 					<div class="down-footer">
-						<a href="#"><img src="/img/logo.png" alt=""></a>
+						<a href="/"><img src="/img/logo.png" alt=""></a>
 						<p> Предложение не является публичной офертой.Заказывая услуги,Вы соглашаетесь на обработку<br>своих персональных данных и принимаете условия политики конфиденциальности.<br>Все права защищены.</p>
 						<a class="phone-blue" href="tel:+7 (800) 234 30 45">+7 (800) 234 30 45</a>
 					</div>
