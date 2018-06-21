@@ -14,8 +14,13 @@
 	<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
 	<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
 	<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+	<style>
+	#page-preloader {position: fixed;left: 0;top: 0;right: 0;bottom: 0;background: rgba(255, 255, 255, 1);z-index: 100500;} 
+	#page-preloader .spinner {background: url('/img/spinner-gif-17.gif') no-repeat center; border-radius: 6px; background-size: cover; position: absolute;left: 0;right: 0;top: 0;bottom: 0; margin: auto; width: 50px; height: 50px;}
+	</style>
 </head>
 <body>
+<div id="page-preloader"><span class="spinner"></span></div>
 	<header>
 	<nav class="navbar navbar-expand-md navbar-light">
 		  <a class="navbar-brand" href="#"><img src="/img/logo.png" class="nav-logo" alt=""></a>
@@ -2169,4 +2174,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
 <script src="/js/main.js"></script>
+
 </body>
