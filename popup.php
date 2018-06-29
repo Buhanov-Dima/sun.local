@@ -32,7 +32,11 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-1" class="animated-modal">
+			<div style="" id="art-1" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/01/img-1.jpg" alt=""></div>
