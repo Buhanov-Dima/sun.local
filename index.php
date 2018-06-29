@@ -209,10 +209,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">ЗНАКОМСТВО С СОЧИ</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php-#art-1" href="javascript:;">#2 Appending to "data-src" attribute</a>
-							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-1" href="javascript:;">AJAX content</a>
-							<a data-fancybox data-animation-duration="700" data-src="#art-1" href="javascript:;" >
-								<div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-1" href="javascript:;"><div class="znakom-thumb">
 									<img src="/img/slaider/01/1.jpg" alt="">
 								</div>
 							</a>
@@ -221,12 +218,12 @@
 								<p class="text-left">Обзорная экскурсия по вечернему Сочи, башня Ахун, парк Ривьера, Морской порт<br>Продолжительноcть 4 часа<br>Ежедневно в 18:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-1" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-1" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-2" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-2" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/02/1.jpg" alt="">
 							</div>
 							</a>
@@ -235,12 +232,12 @@
 								<p class="text-left">Обзорная экскурсия по Сочи + дача Сталина<br>Продолжительность 4 часов<br>Пятница в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a  data-fancybox data-animation-duration="700" data-src="#art-2" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-2" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-3" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-3" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/03/1.jpg" alt="">
 							</div>
 							</a>
@@ -250,7 +247,7 @@
 								Понедельник, четверг, воскресенье<br>14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a  data-fancybox data-animation-duration="700" data-src="#art-3" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-3" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -266,7 +263,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">Олимпийское наследие</h1>
 					<div class="wrap-znakomstva h-400">
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-4" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-4" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/04/1.jpg" alt="">
 							</div>
 							</a>
@@ -275,12 +272,12 @@
 								<p class="text-left">Красная поляна, Олимпийские объекты, Вечерний Олимпийский парк <br> Продолжительноcть 10 часов<br> Ежедневно в 12:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-4" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-4" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-5" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-5" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/05/1.jpg" alt="">
 							</div>
 							</a>
@@ -289,12 +286,12 @@
 								<p class="text-left">Красная поляна, Роза Хутор  Продолжительность 8 часов<br> Ежедневно в 9:00</p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-5" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-5" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-6" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-6" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/06/1.jpg" alt="">
 							</div>
 							</a>
@@ -304,12 +301,12 @@
 								Ежедневно в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-6" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-6" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-7" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-7" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/07/1.jpg" alt="">
 							</div>
 							</a>
@@ -319,12 +316,12 @@
 								Ежедневно в 18:00</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-7" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-7" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-8" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-8" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/08/1.jpg" alt="">
 							</div>
 							</a>
@@ -334,7 +331,7 @@
 								Ежедневно в 9:00</p>
 								<div class="sochi-price">
 									<span>Цена: 3990 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-8" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-8" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -350,7 +347,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">Гостеприимная Абхазия</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-9" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-9" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/09/1.jpg" alt="">
 							</div>
 							</a>
@@ -359,13 +356,13 @@
 								<p class="text-left">Новоафонский монастырь, пещеры,  озеро Рица, Голубое озеро , курорт Пицунда, храм VI века Лыхны, Юпшарский каньон (каменный мешок), дегустация меда и вина <br> Продолжительноcть 14 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1400 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-9" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-9" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-10" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-10" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/10/1.jpg" alt="">
 							</div>
 							</a>
@@ -374,13 +371,13 @@
 								<p class="text-left">Гагрская колоннада, курорт Пицунда, Голубое озеро, Юпшарский каньон (каменный мешок), озеро Рица, дача Сталина<br> Продолжительноcть 12 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1550 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-10" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-10" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-11" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-11" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/11/1.jpg" alt="">
 							</div>
 							</a>
@@ -389,13 +386,13 @@
 								<p class="text-left">Гагрская колоннада, Новоафонский монастырь (XIX в), храм Симона Канонита, водопад на Псырцхе, Новоафонская пещера, дача Сталина <br> Продолжительноcть 14 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1200 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-11" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-11" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom h-563 lg-height">
-							<a data-fancybox data-animation-duration="700" data-src="#art-12" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-12" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/12/1.jpg" alt="">
 							</div>
 							</a>
@@ -404,13 +401,13 @@
 								<p class="text-left">Всё включено! КАМАН (древнее село Абхазии), собор Симона Кананита, храм VIII века Каманы, Новоафонский монастырь<br> Продолжительноcть 14 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 2000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-12" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-12" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom h-563">
-							<a data-fancybox data-animation-duration="700" data-src="#art-13" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-13" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/13/1.jpg" alt="">
 							</div>
 							</a>
@@ -419,7 +416,7 @@
 								<p class="text-left">Комфортабельные автомобили Hyundai Starex для небольших экскурсионных групп  до 8 человек<br>Гагра-колоннада, Гагрипш, озеро Рица, Голубое озеро, Юпшарский каньон (каменный мешок), слияние двух рек, чабгарский карниз, смотровая площадка, Молочный водопад, Новый Афон - мужской монастырь<br> Продолжительноcть 10-12 часов<br> Ежедневно в 8:15</p>
 								<div class="sochi-price">
 									<span>Цена: 3000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-13" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-13" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -435,7 +432,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">Природа Краснодарского края</h1>
 					<div class="wrap-znakomstva h-420">
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-14" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-14" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/14/1.jpg" alt="">
 							</div>
 							</a>
@@ -444,13 +441,13 @@
 								<p class="text-left">Гора Ахун, видовая башня, Агурское ущелье, дегустация вина<br> Продолжительноcть 4 часа<br> Ежедневно в 10:00, 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-14" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-14" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-15" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-15" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/15/1.jpg" alt="">
 							</div>
 							</a>
@@ -459,13 +456,13 @@
 								<p class="text-left">Гора Ахун, видовая башня, Тисо-самшитовая роща<br> Продолжительноcть 4 часа<br> Пятница в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-15" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-15" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-16" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-16" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/16/1.jpg" alt="">
 							</div>
 							</a>
@@ -474,13 +471,13 @@
 								<p class="text-left">Гора Ахун, видовая башня, Дача Сталина<br> Продолжительноcть 4 часа<br> Вторник в 13:30</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-16" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-16" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-17" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-17" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/17/1.jpg" alt="">
 							</div>
 							</a>
@@ -489,13 +486,13 @@
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека <br> Продолжительноcть 7 часов<br> Вторник, четверг в 12:30</p>
 								<div class="sochi-price">
 									<span>Цена: 750 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-17" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-17" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-18" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-18" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/18/1.jpg" alt="">
 							</div>
 							</a>
@@ -504,13 +501,13 @@
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека, тайна Волконского дольмена<br>Продолжительноcть 8 часов<br> Воскресенье в 10:00 </p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-18" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-18" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-19" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-19" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/19/1.jpg" alt="">
 							</div>
 							</a>
@@ -519,13 +516,13 @@
 								<p class="text-left">Долина «33 водопада», переправа, сыроварня, пасека, вечернее шоу Адыгов <br>Продолжительноcть 10 часов<br> Понедельник, среда, суббота в 12:30 </p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-19" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-19" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-20" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-20" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/20/1.jpg" alt="">
 							</div>
 							</a>
@@ -534,13 +531,13 @@
 								<p class="text-left"><br>Продолжительноcть 5 часов<br> Вторник, четверг, суббота в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-20" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-20" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-21" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-21" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/21/1.jpg" alt="">
 							</div>
 							</a>
@@ -549,7 +546,7 @@
 								<p class="text-left">Змейковские водопады, обзорная экскурсия по Сочи<br>Продолжительноcть 4 часа<br> Ежедневно в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-21" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-21" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -565,7 +562,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">Святые места Сочи</h1>
 					<div class="wrap-znakomstva h-517">
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-22" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-22" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/22/1.jpg" alt="">
 							</div>
 							</a>
@@ -574,13 +571,13 @@
 								<p class="text-left">Продолжительноcть 5 часов<br> Понедельник, четверг в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-22" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-22" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-23" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-23" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/23/1.jpg" alt="">
 							</div>
 							</a>
@@ -589,7 +586,7 @@
 								<p class="text-left">Горные села – Нижний и Верхний Солох-аул, Родина русского чая, дом-музей чая, памятник природы «Дагомысские корыта», водоскаты реки «Серебряной», горная дорога, видовая площадка «На краю земли», мужской монастырь  «Крестовая пустынь» <br> Продолжительноcть 7 часов<br> Ежедневно в 9:00</p>
 								<div class="sochi-price">
 									<span>Цена: 800 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-23" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-23" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -605,7 +602,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">Джиппинг</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-24" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-24" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/24/1.jpg" alt="">
 							</div>
 							</a>
@@ -614,13 +611,13 @@
 								<p class="text-left">10 маршрутов на выбор <br> Продолжительность от 4 до 10 часов в зависимости от выбранного маршрута <br> Ежедневно, время зависит от маршрута</p>
 								<div class="sochi-price">
 									<span>Цена: 1500 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-24" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-24" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-25" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-25" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/25/1.jpg" alt="">
 							</div>
 							</a>
@@ -629,13 +626,13 @@
 								<p class="text-left">Гегский водопад, озеро Рица<br> Продолжительноcть 10 часов<br> Ежедневно в 7:00</p>
 								<div class="sochi-price">
 									<span>Цена: 2500 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-25" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-25" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-26" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-26" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/26/1.jpg" alt="">
 							</div>
 							</a>
@@ -644,7 +641,7 @@
 								<p class="text-left">3 программы на выбор: Большой Сочи, Высокогорная, Абхазия <br>Внедорожники премиум класса <br> Продолжительноcть 12 часов<br> Ежедневно в 8:00</p>
 								<div class="sochi-price">
 									<span>Цена: 5000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-26" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-26" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -660,7 +657,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">Морские прогулки</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-27" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-27" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/27/1.jpg" alt="">
 							</div>
 							</a>
@@ -669,13 +666,13 @@
 								<p class="text-left">Продолжительность 1 час<br> Ежедневно, каждый час</p>
 								<div class="sochi-price">
 									<span>Цена: 700 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-27" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-27" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-28" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-28" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/28/1.jpg" alt="">
 							</div>
 							</a>
@@ -684,13 +681,13 @@
 								<p class="text-left">Продолжительноcть 3 часа<br> Ежедневно в 8:00, 9:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1500 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-28" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-28" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-29" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-29" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/29/1.jpg" alt="">
 							</div>
 							</a>
@@ -699,7 +696,7 @@
 								<p class="text-left">Аренда яхты на Ваш выбор от 5000р. до 15000р. в час в зависимости от яхты</p>
 								<div class="sochi-price">
 									<span>Цена: от 5000 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-29" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-29" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -715,7 +712,7 @@
 					<h1 class="standart-h1 mg-t-1 mg-b-1">Яркие впечатления</h1>
 					<div class="wrap-znakomstva">
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-30" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-30" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/30/1.jpg" alt="">
 							</div>
 							</a>
@@ -724,13 +721,13 @@
 								<p class="text-left">Обзорная экскурсия, посещение и экскурсия по Обезьяньему питомнику<br>Продолжительность 5 часов<br> Понедельник, воскресенье в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-30" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-30" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-31" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-31" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/31/1.jpg" alt="">
 							</div>
 							</a>
@@ -739,13 +736,13 @@
 								<p class="text-left">Трансфер с обзорной экскурсией по Сочи<br>Продолжительноcть 5 часов<br>Ежедневно в 11:30</p>
 								<div class="sochi-price">
 									<span>Цена: 400 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-31" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-31" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-32" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-32" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/32/1.jpg" alt="">
 							</div>
 							</a>
@@ -754,13 +751,13 @@
 								<p class="text-left">Трансфер с обзорной экскурсией, 2х-часовая конная прогулка<br> Продолжительноcть 3 часа<br> Ежедневно в 10:00, 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: от 1100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-32" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-32" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-33" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-33" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/33/1.jpg" alt="">
 							</div>
 							</a>
@@ -769,13 +766,13 @@
 								<p class="text-left">Трансфер с обзорной экскурсией, прогулка на квадроциклах<br> Продолжительноcть 4 часа<br> Ежедневно в 9:00, 11:30, 14:30, 17:00</p>
 								<div class="sochi-price">
 									<span>Цена: от 1100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-33" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-33" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-34" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-34" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/34/1.jpg" alt="">
 							</div>
 							</a>
@@ -784,13 +781,13 @@
 								<p class="text-left">Обзорная экскурсия, Форелевое хозяйство, выставочный зал, Шоу стеклодувов, мастер-класс на горелке<br> Продолжительноcть 5 часов<br> Среда, четверг, суббота в  14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 600 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-34" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-34" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-35" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-35" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/35/1.jpg" alt="">
 							</div>
 							</a>
@@ -799,13 +796,13 @@
 								<p class="text-left">Продолжительность 2-3 часа<br> Ежедневно, любое удобное для Вас время</p>
 								<div class="sochi-price">
 									<span>Цена: от 2100 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-35" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-35" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-36" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-36" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/36/1.jpg" alt="">
 							</div>
 							</a>
@@ -814,13 +811,13 @@
 								<p class="text-left">Продолжительноcть 5 часов<br> Ежедневно в 14:00</p>
 								<div class="sochi-price">
 									<span>Цена: 1400 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-36" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-36" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
 
 						<div class="znakom">
-							<a data-fancybox data-animation-duration="700" data-src="#art-37" href="javascript:;" ><div class="znakom-thumb">
+							<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-37" href="javascript:;"><div class="znakom-thumb">
 								<img src="/img/slaider/37/1.jpg" alt="">
 							</div>
 							</a>
@@ -829,7 +826,7 @@
 								<p class="text-left">Продолжительноcть 4 часа<br> Пятница в 14:30</p>
 								<div class="sochi-price">
 									<span>Цена: 950 р.</span>
-									<a data-fancybox data-animation-duration="700" data-src="#art-37" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
+									<a data-fancybox data-type="ajax" data-src="http://sun.local/popup.php" data-filter="#art-37" href="javascript:;" class="btn_read_more">ПОДРОБНЕЕ</a>
 								</div>
 							</div>
 						</div>
@@ -907,9 +904,41 @@
 			</div>
 		</div>
 	</footer>
+	<div class="card">
+		<div class="card-body">
+			<div style="display: none;" id="popup-modal-2" class="animated-modal">
+	          <div class="wrap-popup-thanks">
+	          	<h3>Спасибо за ваше обращение</h3>
+	          	<p>мы перезвоним вам в течении 20 минут</p>
+	          </div>		
+	        </div>
+	    </div>
+	</div>
 
-
-
+	<div class="card">
+		<div class="card-body">
+			<div style="display: none;" id="popup-modal" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
+	          		<form class="open-form popup-form" action="">
+						<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
+						<input type="text" name="phone" class="f-tel" placeholder="Номер телефона">
+						<input type="hidden" name="reason" value="">
+						<input type="checkbox" name="check" class="check">
+						<label for="check">Я согласен на обработку персональных данных</label>
+						<button class="btn-send">Отправить</button>
+					</form>
+	          </div>
+	        </div>
+	    </div>
+	</div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

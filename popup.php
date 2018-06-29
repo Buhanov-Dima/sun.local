@@ -1,40 +1,13 @@
-
-	<div class="card">
-	<div class="card-body">
-		<div style="display: none;" id="art-3" class="animated-modal">
-          <div class="wrap-popup">
-          	<div class="popup-slaider owl-carousel">
-	          	<div class="p-img"><img src="/img/slaider/03/img-1.jpg" alt=""></div>
-	          	<div class="p-img"><img src="/img/slaider/03/img-2.jpg" alt=""></div>
-	          	<div class="p-img"><img src="/img/slaider/03/img-3.jpg" alt=""></div>
-	          	<div class="p-img"><img src="/img/slaider/03/img-4.jpg" alt=""></div>
-	          	<div class="p-img"><img src="/img/slaider/03/img-5.jpg" alt=""></div>
-	        </div>
-          	<div class="p-txt">
-          		<p><b>Зеленый Сочи</b><br>Можно ли приехать в Сочи, в главный курортный город страны и не узнать его историю, не посетить главные достопримечательности и не видеть разнообразие сочинской природы? Конечно, нет. Именно поэтому мы приглашаем Вас на увлекательную обзорную экскурсию по городу с посещением главных достопримечательностей! <br>Помимо знакомства с городом Вы прогуляетесь по фестивальному скверу, который будет вам интересен ароматной субтропической растительностью, удобством инфраструктуры и неограниченным трафиком сети Интернет. А также посетите селекционный сад Сочинского научно-исследовательского института горного садоводства и цветоводства. Там Вы увидите самое знаменитое дерево в мире, дерево-музей, дерево-сад, в кроне которого зреют американские апельсины и японские мандарины, лимоны и грейпфруты – 45 видови сортов цитрусовых – «Дерево Дружбы»!</p>
-          		<form class="open-form popup-form" action="">
-					<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
-					<input type="text" name="phone" class="f-tel" placeholder="Номер телефона">
-					<input type="hidden" name="reason" value="">
-					<input type="checkbox" name="check" class="check">
-					<label for="check">Я согласен на обработку персональных данных</label>
-					<button class="btn-send">Отправить</button>
-				</form>
-          	</div>
-          	<div class="p-txt-1">
-          		<p><b>Обзорная по Сочи, сад-музей, дерево Дружбы, фестивальный сквер<br> Продолжительность 5 часов<br>Понедельник, четверг, воскресенье в 14:00<br> Доп расходы: обязательно эко-сбор 150р взрослые / 75р дети 7-14 лет, дети до 6 лет бесплатно</b></p>
-          		<span>Цена: 600 р.</span>
-          	</div>
-          </div>
-        </div>
-      </div>
-	</div>
-
 	<div class="card">
 		<div class="card-body">
-			<div style="" id="art-1" class="animated-modal">
+			<div id="art-1" class="animated-modal">
 			<link rel="stylesheet" href="/css/owl.carousel.min.css">
 			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
 			<script src="/js/owl.carousel.min.js"></script>
 			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
@@ -67,9 +40,18 @@
 	</div>
 
 
-<div class="card">
+	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-2" class="animated-modal">
+			<div id="art-2" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/02/img-1.jpg" alt=""></div>
@@ -98,9 +80,59 @@
 	    </div>
 	</div>
 
+
+	<div class="card">
+	<div class="card-body">
+		<div id="art-3" class="animated-modal">
+		<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
+          <div class="wrap-popup">
+          	<div class="popup-slaider owl-carousel">
+	          	<div class="p-img"><img src="/img/slaider/03/img-1.jpg" alt=""></div>
+	          	<div class="p-img"><img src="/img/slaider/03/img-2.jpg" alt=""></div>
+	          	<div class="p-img"><img src="/img/slaider/03/img-3.jpg" alt=""></div>
+	          	<div class="p-img"><img src="/img/slaider/03/img-4.jpg" alt=""></div>
+	          	<div class="p-img"><img src="/img/slaider/03/img-5.jpg" alt=""></div>
+	        </div>
+          	<div class="p-txt">
+          		<p><b>Зеленый Сочи</b><br>Можно ли приехать в Сочи, в главный курортный город страны и не узнать его историю, не посетить главные достопримечательности и не видеть разнообразие сочинской природы? Конечно, нет. Именно поэтому мы приглашаем Вас на увлекательную обзорную экскурсию по городу с посещением главных достопримечательностей! <br>Помимо знакомства с городом Вы прогуляетесь по фестивальному скверу, который будет вам интересен ароматной субтропической растительностью, удобством инфраструктуры и неограниченным трафиком сети Интернет. А также посетите селекционный сад Сочинского научно-исследовательского института горного садоводства и цветоводства. Там Вы увидите самое знаменитое дерево в мире, дерево-музей, дерево-сад, в кроне которого зреют американские апельсины и японские мандарины, лимоны и грейпфруты – 45 видови сортов цитрусовых – «Дерево Дружбы»!</p>
+          		<form class="open-form popup-form" action="">
+					<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
+					<input type="text" name="phone" class="f-tel" placeholder="Номер телефона">
+					<input type="hidden" name="reason" value="">
+					<input type="checkbox" name="check" class="check">
+					<label for="check">Я согласен на обработку персональных данных</label>
+					<button class="btn-send">Отправить</button>
+				</form>
+          	</div>
+          	<div class="p-txt-1">
+          		<p><b>Обзорная по Сочи, сад-музей, дерево Дружбы, фестивальный сквер<br> Продолжительность 5 часов<br>Понедельник, четверг, воскресенье в 14:00<br> Доп расходы: обязательно эко-сбор 150р взрослые / 75р дети 7-14 лет, дети до 6 лет бесплатно</b></p>
+          		<span>Цена: 600 р.</span>
+          	</div>
+          </div>
+        </div>
+      </div>
+	</div>
+
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-4" class="animated-modal">
+			<div id="art-4" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/04/img-1.jpg" alt=""></div>
@@ -133,7 +165,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-5" class="animated-modal">
+			<div id="art-5" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/05/img-1.jpg" alt=""></div>
@@ -166,7 +207,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-6" class="animated-modal">
+			<div id="art-6" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/06/img-1.jpg" alt=""></div>
@@ -198,7 +248,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-7" class="animated-modal">
+			<div id="art-7" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/07/img-1.jpg" alt=""></div>
@@ -231,7 +290,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-8" class="animated-modal">
+			<div id="art-8" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/08/img-1.jpg" alt=""></div>
@@ -265,7 +333,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-9" class="animated-modal">
+			<div id="art-9" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/09/img-1.jpg" alt=""></div>
@@ -304,7 +381,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-10" class="animated-modal">
+			<div id="art-10" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/10/img-1.jpg" alt=""></div>
@@ -339,7 +425,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-11" class="animated-modal">
+			<div id="art-11" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/11/img-1.jpg" alt=""></div>
@@ -373,7 +468,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-12" class="animated-modal">
+			<div id="art-12" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/12/img-1.jpg" alt=""></div>
@@ -407,7 +511,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-13" class="animated-modal">
+			<div id="art-13" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/13/img-1.jpg" alt=""></div>
@@ -445,7 +558,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-14" class="animated-modal">
+			<div id="art-14" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/14/img-1.jpg" alt=""></div>
@@ -479,7 +601,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-15" class="animated-modal">
+			<div id="art-15" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/15/img-1.jpg" alt=""></div>
@@ -514,7 +645,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-16" class="animated-modal">
+			<div id="art-16" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/16/img-1.jpg" alt=""></div>
@@ -550,7 +690,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-17" class="animated-modal">
+			<div id="art-17" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/17/img-1.jpg" alt=""></div>
@@ -584,7 +733,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-18" class="animated-modal">
+			<div id="art-18" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/18/img-1.jpg" alt=""></div>
@@ -619,7 +777,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-19" class="animated-modal">
+			<div id="art-19" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/19/img-1.jpg" alt=""></div>
@@ -653,7 +820,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-20" class="animated-modal">
+			<div id="art-20" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/20/img-1.jpg" alt=""></div>
@@ -688,7 +864,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-21" class="animated-modal">
+			<div id="art-21" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/21/img-1.jpg" alt=""></div>
@@ -722,7 +907,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-22" class="animated-modal">
+			<div id="art-22" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/22/img-1.jpg" alt=""></div>
@@ -755,7 +949,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-23" class="animated-modal">
+			<div id="art-23" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/23/img-1.jpg" alt=""></div>
@@ -792,7 +995,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-24" class="animated-modal">
+			<div id="art-24" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/24/img-1.jpg" alt=""></div>
@@ -824,7 +1036,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-25" class="animated-modal">
+			<div id="art-25" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/25/img-1.jpg" alt=""></div>
@@ -856,7 +1077,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-26" class="animated-modal">
+			<div id="art-26" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/26/1.jpg" alt=""></div>
@@ -887,7 +1117,16 @@
 
 <div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-27" class="animated-modal">
+			<div id="art-27" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/27/img-1.jpg" alt=""></div>
@@ -918,7 +1157,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-28" class="animated-modal">
+			<div id="art-28" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/28/1.jpg" alt=""></div>
@@ -948,7 +1196,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-29" class="animated-modal">
+			<div id="art-29" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/29/img-1.jpg" alt=""></div>
@@ -977,7 +1234,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-30" class="animated-modal">
+			<div id="art-30" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/30/img-1.jpg" alt=""></div>
@@ -1009,7 +1275,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-31" class="animated-modal">
+			<div id="art-31" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/31/img-1.jpg" alt=""></div>
@@ -1044,7 +1319,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-32" class="animated-modal">
+			<div id="art-32" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/32/img-1.jpg" alt=""></div>
@@ -1075,7 +1359,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-33" class="animated-modal">
+			<div id="art-33" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/33/img-1.jpg" alt=""></div>
@@ -1107,7 +1400,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-34" class="animated-modal">
+			<div id="art-34" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/34/img-1.jpg" alt=""></div>
@@ -1138,7 +1440,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-35" class="animated-modal">
+			<div id="art-35" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/35/img-1.jpg" alt=""></div>
@@ -1169,7 +1480,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-36" class="animated-modal">
+			<div id="art-36" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/36/img-1.jpg" alt=""></div>
@@ -1200,7 +1520,16 @@
 
 	<div class="card">
 		<div class="card-body">
-			<div style="display: none;" id="art-37" class="animated-modal">
+			<div id="art-37" class="animated-modal">
+			<link rel="stylesheet" href="/css/owl.carousel.min.css">
+			<link rel="stylesheet" href="/css/owl.theme.default.min.css">
+			<link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
+			<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
+			<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
+			<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
+			<script src="/js/owl.carousel.min.js"></script>
+			<script src="/js/main.js"></script>
 	          <div class="wrap-popup">
 	          	<div class="popup-slaider owl-carousel">
 		          	<div class="p-img"><img src="/img/slaider/37/img-1.jpg" alt=""></div>
@@ -1229,33 +1558,6 @@
 	          		<span>Цена: 950 р.</span>
 	          	</div>
 	          </div>
-	        </div>
-	    </div>
-	</div>
-
-	<div class="card">
-		<div class="card-body">
-			<div style="display: none;" id="popup-modal" class="animated-modal">
-	          		<form class="open-form popup-form" action="">
-						<label class="l-txt-1" for="f-tel">Оставьте свой номер телефона и мы перезвоним вам для персонального подбора экскурсии</label>
-						<input type="text" name="phone" class="f-tel" placeholder="Номер телефона">
-						<input type="hidden" name="reason" value="">
-						<input type="checkbox" name="check" class="check">
-						<label for="check">Я согласен на обработку персональных данных</label>
-						<button class="btn-send">Отправить</button>
-					</form>
-	          </div>
-	        </div>
-	    </div>
-	</div>
-
-	<div class="card">
-		<div class="card-body">
-			<div style="display: none;" id="popup-modal-2" class="animated-modal">
-	          <div class="wrap-popup-thanks">
-	          	<h3>Спасибо за ваше обращение</h3>
-	          	<p>мы перезвоним вам в течении 20 минут</p>
-	          </div>		
 	        </div>
 	    </div>
 	</div>
